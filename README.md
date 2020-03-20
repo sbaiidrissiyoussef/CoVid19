@@ -5,3 +5,6 @@
 
 This data could be useful to make some charts and predictions about the comming days. The following chart summarize the progression of the disease. 
 ![ChartCovid19](https://raw.githubusercontent.com/sbaiidrissiyoussef/CoVid19/master/Chart%20Covid19.png)
+
+
+Creator : Youssef Sbai Idrissi, 2020
